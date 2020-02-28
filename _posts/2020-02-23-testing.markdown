@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What the heck is Testing?"
+title: "What the heck is Testing? (1)"
 date: 2020-02-23 19:33:00 +0900
 image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/700px-Waterfall_model.svg.png
 mathjax: true
@@ -154,9 +154,7 @@ pytest는 커맨드 창에서 "pytest"를 실행하면 위와 같이 `test_`로 
 
 [pytest]: http://doc.pytest.org/en/latest/goodpractices.html#test-discovery
 
-## System Test
-전체 시스템 환경이 구축이 되었을 때 어떤 것을 사용하여 시스템의 작동을 확인해볼 수 있을지, 또, 어떤 툴들이 있는지를 확인해 봅시다.
-### BeautifulSoup
+# Conclusion
+지금까지 테스팅이 뭔지에 대해 아주 간단하게 알아봤습니다. 다음 포스트에서는 앞에서 본 `unittest`, `pytest`를 어떤 식으로 사용하는지, 또, `System Testing`, `Acceptance Testing`에는 어떤 툴과 어떤 방법론이 있는지 살펴보겠습니다!
 
-### Selenium
-
+포스팅이 맘에 드셨다면 밑의 이메일 구독을 해주세요!
