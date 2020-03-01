@@ -115,6 +115,7 @@ API 서버를 만들 때, 저는 항상 JWT를 사용해서 Authentication을 �
 
 글이 마음에 드셨다면 밑의 구독 부탁드립니다!
 
+
 [apache]: https://httpd.apache.org/docs/2.4/ko/howto/auth.html
 [avsa]: https://miro.medium.com/max/854/1*e6-Qy8EQJu1TW4y6KW913Q.jpeg
 [jwtpayload]: https://tools.ietf.org/html/rfc7519#section-4.1
