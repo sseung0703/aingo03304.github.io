@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "경제학원론 1"
+title: "Economics Basics (1)"
 date: 2020-03-05 15:39:00 +0900
-image_url: "https://i.ytimg.com/vi/ejJRhn53X2M/maxresdefault.jpg"
+image_url: "https://learnodo-newtonic.com/wp-content/uploads/2019/04/Adam-Smith-Featured.jpg"
 mathjax: true
 comments: true
 ---
