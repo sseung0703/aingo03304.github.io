@@ -207,6 +207,8 @@
 }
 
 .post-link {
+  width: 180px;
+  word-wrap: break-word;
   @include relative-font-size(1.0);
 }
 
